@@ -3,7 +3,7 @@ from DigitRank import *
 import time
 import serial
 
-# Print how many pages input1 has:
+# Print how many pages input1 has right now:
 
 
 def getPDFContent(path):
