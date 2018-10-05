@@ -23,3 +23,4 @@ def tts(ser0):
 
     final_message = 'Congratulations! You have successfully completed the tutorial for learning basic braille script. You are now ready to unlock the full potential of the device!'
     subprocess.Popen(['espeak', '-ven+f3', '-k5', '-s150', final_message])
+## End here
