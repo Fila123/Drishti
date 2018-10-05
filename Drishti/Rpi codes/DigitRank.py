@@ -1,4 +1,5 @@
 def Rank(char):
+    ## Redundant
     # if(char is 'e' or char is '5'):
     #   return 0
     # if(char is 't'):
